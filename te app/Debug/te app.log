@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(162): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(443): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(465): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(495): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(549): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(654): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(663): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(672): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(675): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(678): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(681): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(707): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(959): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(964): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(1008): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed\Desktop\CS\repoet\te app\te app\main.cpp(1584): warning C4129: ' ': unrecognized character escape sequence
+  te app.vcxproj -> C:\Users\Ahmed\Desktop\CS\repoet\te app\Debug\te app.exe
